@@ -1,3 +1,14 @@
 snowflake-connector-python
 pandas
 streamlit
+streamlit_option_menu
+plost
+numpy
+pyplot
+altair
+math
+datetime
+sqlparse
+millify
+typing
+toml
