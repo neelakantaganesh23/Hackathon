@@ -6,7 +6,6 @@ plost
 numpy
 matplotlib
 altair
-math
 datetime
 sqlparse
 millify
