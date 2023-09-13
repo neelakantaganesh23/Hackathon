@@ -4,7 +4,7 @@ streamlit
 streamlit_option_menu
 plost
 numpy
-pyplot
+matplotlib
 altair
 math
 datetime
